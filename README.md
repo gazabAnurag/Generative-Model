@@ -18,3 +18,7 @@ Involves burning up the GPUs and my PC for finding a perfect generative model.
 * AttnGANs
 * CPGGANS
 > more to follow...
+- Implement these:
+  - AttnGAN
+  - PGGAN
+  - LSGAN
