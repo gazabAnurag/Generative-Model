@@ -15,5 +15,6 @@ Involves burning up the GPUs and my PC for finding a perfect generative model.
 * VAEGANs https://youtu.be/r3L3JT_TLTM?t=971
 * Seq GANs https://youtu.be/r3L3JT_TLTM?t=1061
 
-
+* AttnGANs
+* CPGGANS
 > more to follow...
